@@ -3,6 +3,8 @@
 ## Repositório
 Esse repositório contém os materiais da palestra "Criando jogos interativos com MicroPython e eletrônica", apresentada na Python Brasil 2022 em Manaus/AM. Estão disponíveis os slides utilizados (incluindo os vídeos) e o código fonte do projeto Genius.
 
+Gravação da palestra disponível no canal da Python Brasil: https://www.youtube.com/watch?v=0eqef6aCK44
+
 ## Genius
 O projeto Genius foi criado como uma prova de conceito para demonstrar a utilização dos componentes eletrônicos da placa micro:bit. O código foi escrito prezando pela didática, para que possa ser compreendido por iniciantes na programação.
 
