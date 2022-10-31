@@ -8,7 +8,7 @@ def iniciar_jogo():
     while not (button_a.is_pressed() and button_b.is_pressed()):
         display.show(Image.DIAMOND)
         sleep(1200)
-        return
+    return
 
 def sortear_jogada():
     possibilidades = ['direita', 'esquerda']
